@@ -3,7 +3,7 @@
 ## 1 前端篇
 
 ### 1.1 JavaScript
-- [ES6入门教程](https://learnerhu.github.io/es6/)
+- [ES6入门教程](https://learnerhu.github.io/Es6/)
 
 
 ## 2 后端笔记
