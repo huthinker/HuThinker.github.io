@@ -13,3 +13,6 @@
 
 ### 2.2 Java篇
 - [学习小马哥SpringBoot笔记](https://learnerhu.github.io/XmgSpringBoot/)
+
+## 3 其他篇
+- [使用git-book写书并发布到github的步骤](https://learnerhu.github.io/gitbook-githubpage/)
