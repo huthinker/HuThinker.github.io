@@ -12,4 +12,4 @@
 - [JAVA开发环境搭建](https://learnerhu.github.io/JavaDeVEnvironment/)
 
 ### 2.2 Java篇
-- [学习小马哥SpringBoot笔记](https://learnerhu.github.io/LmSpringBoot/)
+- [学习小马哥SpringBoot笔记](https://learnerhu.github.io/XmgSpringBoot/)
