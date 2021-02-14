@@ -1,18 +1,11 @@
-# 入口
+## 入口
 
-## 1 前端篇
+#### 1 前端篇
+- [ES6入门教程](https://learnerhu.github.io/ruanyifeng-es6-book/)
 
-### 1.1 JavaScript
-- [ES6入门教程](https://learnerhu.github.io/Es6/)
+#### 2 后端篇
+- [JAVA开发环境搭建（idea2018.1.4+maven-3.5.2）](https://learnerhu.github.io/java-dev-environment/)
+- [学习小马哥SpringBoot笔记](https://learnerhu.github.io/xmg-sppringboot/)
 
-
-## 2 后端笔记
-
-### 2.1 环境与工具篇
-- [JAVA开发环境搭建](https://learnerhu.github.io/JavaDeVEnvironment/)
-
-### 2.2 Java篇
-- [学习小马哥SpringBoot笔记](https://learnerhu.github.io/XmgSpringBoot/)
-
-## 3 其他篇
+#### 3 其他篇
 - [使用git-book写书并发布到github的步骤](https://learnerhu.github.io/gitbook-githubpage/)
